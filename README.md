@@ -10,7 +10,7 @@
 - **빌드 도구**: Gradle
 - **버전 관리**: Git
 
-## 🗂 APi, ERD, SQL
+## 🗂 API, ERD, SQL
 
 **API 명세서 작성하기**<br>
 ![image](https://github.com/user-attachments/assets/5255d91e-622c-4fd2-a83e-82417913e1f1)
