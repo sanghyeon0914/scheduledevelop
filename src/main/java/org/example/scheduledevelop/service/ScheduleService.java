@@ -53,7 +53,7 @@ public class ScheduleService {
         Schedule schedule = scheduleRepository.findByIdOrElseThrow(id);
 
         if (!schedule.getUser().getId().equals(userId)) {
-            throw new ResponseStatusException(HttpStatus.FORBIDDEN, "사용자 이름이 일치하지 않아 수정할 수 없습니다.");
+            throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "사용자 이름이 일치하지 않아 수정할 수 없습니다.");
         }
 
         schedule.update(title);
@@ -65,7 +65,7 @@ public class ScheduleService {
         Schedule schedule = scheduleRepository.findByIdOrElseThrow(id);
 
         if (!schedule.getUser().getId().equals(userId)) {
-            throw new ResponseStatusException(HttpStatus.FORBIDDEN, "사용자 이름이 일치하지 않아 수정할 수 없습니다.");
+            throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "사용자 이름이 일치하지 않아 수정할 수 없습니다.");
         }
 
         scheduleRepository.delete(schedule);
