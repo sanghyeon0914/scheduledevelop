@@ -20,9 +20,11 @@ scheduledevelop/ ├── gradle/ ├── src/ │ ├── main/ │ │ �
 ![image](https://github.com/user-attachments/assets/5255d91e-622c-4fd2-a83e-82417913e1f1)
 ![image](https://github.com/user-attachments/assets/61beab0d-b99a-4980-8dbb-807e605f2ec7)
 <br>
+
 **ERD 작성하기**
-![image.png](attachment:a0b6affc-03cc-4b07-b6bf-4d13e0f131a8:image.png)
+![image](https://github.com/user-attachments/assets/695f0aba-556a-433a-9f13-fd7853abf62e)
 <br>
+
 **SQL 작성하기**
 ![image](https://github.com/user-attachments/assets/dce98ee1-1099-4770-b3d5-a414733f3aa5)
 <br>
