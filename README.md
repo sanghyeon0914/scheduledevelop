@@ -21,11 +21,11 @@ scheduledevelop/ ├── gradle/ ├── src/ │ ├── main/ │ │ �
 ![image](https://github.com/user-attachments/assets/61beab0d-b99a-4980-8dbb-807e605f2ec7)
 <br>
 
-**ERD 작성하기**
+**ERD 작성하기**<br>
 ![image](https://github.com/user-attachments/assets/695f0aba-556a-433a-9f13-fd7853abf62e)
 <br>
 
-**SQL 작성하기**
+**SQL 작성하기**<br>
 ![image](https://github.com/user-attachments/assets/dce98ee1-1099-4770-b3d5-a414733f3aa5)
 <br>
 
