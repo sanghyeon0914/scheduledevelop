@@ -10,13 +10,9 @@
 - **빌드 도구**: Gradle
 - **버전 관리**: Git
 
-## 🗂 디렉토리 구조
-scheduledevelop/ ├── gradle/ ├── src/ │ ├── main/ │ │ ├── java/ │ │ └── resources/ │ └── test/ │ ├── java/ │ └── resources/ ├── .gitattributes ├── .gitignore ├── README.md ├── build.gradle ├── gradlew ├── gradlew.bat └── settings.gradle
+## 🗂 APi, ERD, SQL
 
-## 🚀 주요 기능
-### Lv 0. API 명세 및 ERD 작성 
-
-**API 명세서 작성하기**
+**API 명세서 작성하기**<br>
 ![image](https://github.com/user-attachments/assets/5255d91e-622c-4fd2-a83e-82417913e1f1)
 ![image](https://github.com/user-attachments/assets/61beab0d-b99a-4980-8dbb-807e605f2ec7)
 <br>
@@ -28,6 +24,8 @@ scheduledevelop/ ├── gradle/ ├── src/ │ ├── main/ │ │ �
 **SQL 작성하기**<br>
 ![image](https://github.com/user-attachments/assets/dce98ee1-1099-4770-b3d5-a414733f3aa5)
 <br>
+
+## 🚀 주요 기능
 
 ### Lv 1. 일정 CRUD 
 
